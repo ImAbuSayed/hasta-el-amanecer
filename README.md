@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hasta-el-amanecer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
+| **Get License** | [Commercial Licensing for Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero tenerte cerca, perder el control
+> Bajo las luces negras, sentir tu calor
+> Nos miramos de lejos y empieza la acción
+> Esta noche la calle es de nuestra pasión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
