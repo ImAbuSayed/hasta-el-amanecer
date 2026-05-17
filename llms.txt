@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hasta-el-amanecer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
+| **Get License** | [License this song: Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1542)
 
 ---
 
