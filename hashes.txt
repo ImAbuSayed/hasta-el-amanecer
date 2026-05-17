@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Hasta el Amanecer
+
+This log tracks the cryptographic history and versioning for the song **Hasta el Amanecer** (hasta-el-amanecer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T18:21:49.234847 | `v1` | `fc5bc7145c431d973fb8c8c02d035d516243ec6643f281479d63f162536a68ac` | `5141687bc8c031d38891282c4e6f4494f8b0d004ae0879a25f058fb8653b94cd` | `2026-05-17_hasta-el-amanecer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

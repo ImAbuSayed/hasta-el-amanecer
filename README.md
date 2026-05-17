@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hasta-el-amanecer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
+| **Get License** | [Get a Licensing Quote for Hasta el Amanecer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hasta-el-amanecer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fc5bc7145c431d973fb8c8c02d035d516243ec6643f281479d63f162536a68ac` |
 | **Timestamp** | May 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
